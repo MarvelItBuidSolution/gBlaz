@@ -1,0 +1,9 @@
+A:\MIBS\OpenSource\gBlaz\gBlaz\gBlaz\Sample\gBlaz.Sample.Shared\bin\Debug\netstandard2.0\gBlaz.Sample.Shared.deps.json
+A:\MIBS\OpenSource\gBlaz\gBlaz\gBlaz\Sample\gBlaz.Sample.Shared\bin\Debug\netstandard2.0\gBlaz.Sample.Shared.dll
+A:\MIBS\OpenSource\gBlaz\gBlaz\gBlaz\Sample\gBlaz.Sample.Shared\bin\Debug\netstandard2.0\gBlaz.Sample.Shared.pdb
+A:\MIBS\OpenSource\gBlaz\gBlaz\gBlaz\Sample\gBlaz.Sample.Shared\obj\Debug\netstandard2.0\gBlaz.Sample.Shared.csprojAssemblyReference.cache
+A:\MIBS\OpenSource\gBlaz\gBlaz\gBlaz\Sample\gBlaz.Sample.Shared\obj\Debug\netstandard2.0\gBlaz.Sample.Shared.csproj.CoreCompileInputs.cache
+A:\MIBS\OpenSource\gBlaz\gBlaz\gBlaz\Sample\gBlaz.Sample.Shared\obj\Debug\netstandard2.0\gBlaz.Sample.Shared.AssemblyInfoInputs.cache
+A:\MIBS\OpenSource\gBlaz\gBlaz\gBlaz\Sample\gBlaz.Sample.Shared\obj\Debug\netstandard2.0\gBlaz.Sample.Shared.AssemblyInfo.cs
+A:\MIBS\OpenSource\gBlaz\gBlaz\gBlaz\Sample\gBlaz.Sample.Shared\obj\Debug\netstandard2.0\gBlaz.Sample.Shared.dll
+A:\MIBS\OpenSource\gBlaz\gBlaz\gBlaz\Sample\gBlaz.Sample.Shared\obj\Debug\netstandard2.0\gBlaz.Sample.Shared.pdb
